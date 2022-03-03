@@ -11,6 +11,13 @@ body{
     font-size: 60px;
     margin-top: 15px;
     margin-left: 55px;
+    color: red;
+}
+
+.ponto{
+    position: absolute;
+    font-size: 40px;
+    margin-left: 11.5%;
 }
 
 nav{
