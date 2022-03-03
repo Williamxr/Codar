@@ -14,12 +14,6 @@ body{
     color: red;
 }
 
-.ponto{
-    position: absolute;
-    font-size: 40px;
-    margin-left: 11.5%;
-}
-
 nav{
     position: absolute;
     top: 35px;
