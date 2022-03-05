@@ -92,6 +92,16 @@ nav li{
     font-size: 30px;
 }
 
+.lista:before{
+    content: "✓";
+    margin: 0 10px 0 0;
+    padding: 0 5px;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    background: red;
+}
+
 .coding{
     width: 600px;
 }
