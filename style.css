@@ -50,4 +50,28 @@ nav li{
 
 .paragrafo{
     margin-right: 50px;
+    margin-top: 80px;
+}
+
+.paragrafo1{
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.paragrafo2{
+    font-weight: bold;
+    font-size: 100px;
+    color: red;
+    margin-top: 20px;
+}
+
+.botao{
+  margin-top: 80px;
+  border: none;
+  border-radius: 12px;
+  padding: 10px 50px;
+  font-weight: bold;
+  font-size: 40px;
+  color: white;
+  background: red;
 }
