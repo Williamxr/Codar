@@ -35,3 +35,9 @@ nav li{
     color: white;
     background-color: red;
 }
+
+.video_call{
+    width: 600px;
+    margin-top: 200px;
+    margin-left: 180px;
+}
