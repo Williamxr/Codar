@@ -75,3 +75,23 @@ nav li{
   color: white;
   background: red;
 }
+
+.beneficios{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.lista-beneficios{
+    margin-top: 40px;
+}
+
+.lista{
+    padding: 10px 0;
+    font-size: 30px;
+}
+
+.coding{
+    width: 600px;
+}
