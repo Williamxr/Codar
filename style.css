@@ -120,3 +120,20 @@ nav li{
     font-size: 30px;
     font-weight: bolder;
 }
+
+.contato{
+    display: flex;
+    margin-left: 200px;
+}
+
+.botao1{
+    margin-left: 20px;
+    border: none;
+    border-radius: 12px;
+    padding: 15px 35px;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    background: red;
+    cursor: pointer;
+}
