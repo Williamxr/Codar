@@ -114,3 +114,9 @@ nav li{
 .coding{
     width: 600px;
 }
+
+.titulo-secundario{
+    margin: 20px 0 20px 200px;
+    font-size: 30px;
+    font-weight: bolder;
+}
