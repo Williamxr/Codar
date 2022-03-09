@@ -3,7 +3,7 @@ body{
 }
 
 .cabecalho{
-    width: 100%;
+    width: 940px;
     margin: 0 auto;
 }
 
@@ -211,4 +211,29 @@ nav li{
 .rodape{
     width: 100%;
     height: 560px;
+}
+
+@media screen and (max-width: 480px){
+  nav{
+      position: static;
+      margin-top: 5%;
+  }
+
+  .codar{
+      width: auto;
+      margin-left: 30%;
+  }
+
+  .primeiro-conteudo, .beneficios, .contato{
+      display: block;
+      margin-left: 30%;
+  }
+
+  .input-telefone, .botao1{
+     text-align: center;
+  }
+
+  .rodape{
+      width: 230%;
+  }
 }
