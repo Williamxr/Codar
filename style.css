@@ -148,3 +148,13 @@ nav li{
     background: red;
     cursor: pointer;
 }
+
+.foto-bot{
+    width: 80px;
+    border: none;
+    border-radius: 50px;
+}
+
+.comentarios{
+    display: flex;
+}
