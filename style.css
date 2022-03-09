@@ -214,6 +214,15 @@ nav li{
 }
 
 @media screen and (max-width: 480px){
+
+    .codar{
+        width: auto;
+    }
+
+    h1{
+        text-align: center;
+    }
+
   nav{
       position: static;
       margin-top: 5%;
