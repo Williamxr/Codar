@@ -150,11 +150,56 @@ nav li{
 }
 
 .foto-bot{
-    width: 80px;
+    width: 90px;
     border: none;
-    border-radius: 50px;
+    border-radius: 50%;
+    margin-top: 20px;
+    height: 70px;
 }
 
 .comentarios{
+    margin-top: 150px;
     display: flex;
+    justify-content: space-around;
+}
+
+.comentario1{
+    width: 600px;
+    border: none;
+    border-radius: 15px;
+    background-color: rgb(204, 204, 204);
+    padding: 5px 20px;
+    text-align: center;
+}
+
+.comentario-pedro{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.nome-pedro{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.nome-construtora{
+    font-weight: bold;
+    margin-top: 5px;
+}
+
+.comentario-maria{
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.nome-maria{
+    font-weight: bold;
+    font-size: 30px;
+    margin-top: 15px;
+}
+
+.nome-escola{
+    font-weight: bold;
+    margin-top: 5px;
 }
