@@ -235,12 +235,27 @@ nav li{
 
   .primeiro-conteudo, .beneficios, .contato{
       display: block;
-      margin-left: 30%;
+      margin-left: 40%;
+  }
+
+  .lista-beneficios{
+      margin-left: 40%;
+      display: flex;
+      flex-direction: column;
+  }
+
+  .paragrafo{
+      margin-left: 40%;
+  }
+
+  .titulo-secundario{
+      margin-left: 90%;
   }
 
   .input-telefone, .botao1{
      text-align: center;
   }
+
 
   .rodape{
       width: 230%;
