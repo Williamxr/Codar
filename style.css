@@ -215,49 +215,4 @@ nav li{
 
 @media screen and (max-width: 480px){
 
-    .codar{
-        width: auto;
-    }
-
-    h1{
-        text-align: center;
-    }
-
-  nav{
-      position: static;
-      margin-top: 5%;
-  }
-
-  .codar{
-      width: auto;
-      margin-left: 30%;
-  }
-
-  .primeiro-conteudo, .beneficios, .contato{
-      display: block;
-      margin-left: 40%;
-  }
-
-  .lista-beneficios{
-      margin-left: 40%;
-      display: flex;
-      flex-direction: column;
-  }
-
-  .paragrafo{
-      margin-left: 40%;
-  }
-
-  .titulo-secundario{
-      margin-left: 90%;
-  }
-
-  .input-telefone, .botao1{
-     text-align: center;
-  }
-
-
-  .rodape{
-      width: 230%;
-  }
 }
