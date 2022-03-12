@@ -214,6 +214,19 @@ nav li{
     height: 560px;
 }
 
+.mobile-menu{
+    display: none;
+    cursor: pointer;
+    position: absolute;
+}
+
+.mobile-menu div{
+    width: 32px;
+    height: 2px;
+    background-color: rgb(231, 9, 9);
+    margin: 8px;
+}
+
 @media screen and (max-width: 1044px){
     .codar{
         margin-left: 0px;
@@ -296,16 +309,23 @@ nav li{
     .comentarios{
         margin-left: 6%;
     }
+
+    .input-telefone{
+        margin-left: -10%;
+    }
+
+    .titulo-secundario{
+        margin-left: 18%;
+    }
+
+    .botao1{
+        margin-left: 1%;
+    }
 }
 
 @media screen and (max-width: 679px){
 
-    .nav{
-
-    }
-
-    .login{
-        
-    }
-
+ .login{
+        display: none;
+   }
 }
