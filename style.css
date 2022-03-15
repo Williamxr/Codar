@@ -340,33 +340,12 @@ body{
 
 @media screen and (max-width: 613px){
 
+    .codar{
+        margin-left: 20%;
+    }
+
     .rodape{
         width: 127%
-    }
-
-}
-
-@media screen and (max-width: 549px){
-
-    .codar{
-        margin-left: -55%;
-    }
-
-    #btn-mobile{
-        display: block;
-        margin-left: 100%;
-        margin-top: -11%;
-    }
-
-    #menu{
-        /*display: none;*/
-        position: absolute;
-        
-    }
-
-    #nav.active #menu{
-        display: flex;
-        margin-top: 5%;
     }
 
 }
