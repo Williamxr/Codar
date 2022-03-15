@@ -22,6 +22,10 @@ nav{
 
 }
 
+.btn-mobile{
+    display: none;
+}
+
 nav li{
     display: inline;
     font-size: 26px;
@@ -333,7 +337,13 @@ nav li{
         margin-left: -65%;
     }
 
-    .login{
+    .btn-mobile{
+        display: flex;
+        margin-left: 80%;
+        margin-top: -4%;
+    }
+
+    .menu{
         display: none;
     }
 
