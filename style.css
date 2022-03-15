@@ -29,6 +29,10 @@ nav li{
     cursor: pointer;
 }
 
+.menu li{
+    padding: .5rem;
+}
+
 .login{
     border: none;
 	border-radius: 8px;
@@ -325,18 +329,15 @@ nav li{
 
 @media screen and (max-width: 679px){
 
- .login{
-        display: none;
-   }
-}
-
-@media screen and (max-width: 679px){
+    .codar{
+        margin-left: -65%;
+    }
 
     .login{
         display: none;
-     }
+    }
 
-     .rodape{
+    .rodape{
         width: 132%;
-     }
+    }
 }
