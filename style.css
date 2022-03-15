@@ -329,3 +329,14 @@ nav li{
         display: none;
    }
 }
+
+@media screen and (max-width: 679px){
+
+    .login{
+        display: none;
+     }
+
+     .rodape{
+        width: 132%;
+     }
+}
