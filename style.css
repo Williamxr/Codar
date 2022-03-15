@@ -15,18 +15,18 @@ body{
     letter-spacing: 2px;
 }
 
-nav{
+#nav{
     position: absolute;
     top: 35px;
     right: 200px;
 
 }
 
-.btn-mobile{
+#btn-mobile{
     display: none;
 }
 
-nav li{
+#nav li{
     display: inline;
     font-size: 26px;
     margin-left: 55px;
@@ -240,7 +240,7 @@ nav li{
         margin-left: 0px;
     }
 
-    .nav{
+    #nav{
         position: absolute;
         align-items: center;
         right: 0;
@@ -300,7 +300,7 @@ nav li{
         text-align: center;
     }
 
-    .nav{
+    #nav{
         position: static;
         margin-top: 5%;
         text-align: center;
@@ -337,10 +337,10 @@ nav li{
         margin-left: -65%;
     }
 
-    .btn-mobile{
+    #btn-mobile{
         display: flex;
         margin-left: 80%;
-        margin-top: -4%;
+        margin-top: -10%;
     }
 
     .menu{
